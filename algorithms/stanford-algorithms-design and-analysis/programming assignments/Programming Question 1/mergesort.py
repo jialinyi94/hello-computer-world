@@ -1,6 +1,6 @@
 """
 Core algorithm: MergeSort
-Created on Mon Sep  4 14:19:47 2017
+Created on Tue May 29 12:19:47 2018
 
 @author: jialinyi
 """
